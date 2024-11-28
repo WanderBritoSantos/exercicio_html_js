@@ -17,3 +17,6 @@ Requisitos da atividade
  3. O campo da mensagem tem que ficar oculto, sendo mostrado apenas quando o input das informações forem enviadas e calculadas.
 
 
+link do exercício em funcinamento na plataforma versel: https://exercicio-html-ogs2owvfd-wanderson-brito-santos-s-projects.vercel.app/
+https://exercicio-html-js-git-d28231-wanderson-brito-santos-s-projects.vercel.app/
+https://exercicio-html-js-ten.vercel.app/ 
